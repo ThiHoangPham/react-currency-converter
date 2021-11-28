@@ -23,3 +23,8 @@ h1{
 select{
   margin-left: .5rem;
 }
+
+.equals{
+  font-weight: bold;
+  font-size: 2rem;
+}
