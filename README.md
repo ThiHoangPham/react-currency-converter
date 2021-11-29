@@ -1,5 +1,3 @@
-# React-Currency-Converter
-
 ![Currency Converter](./assets/currency-converter.png)
 <h1 align="center"> React
 <br>Currency Converter 👋</h1>
